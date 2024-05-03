@@ -22,8 +22,14 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
+.head{
+  box-shadow: 2px 3px 5px #777777;
+  padding: 20px;
+  margin: 5rem 30rem
+}
 .App-link {
   color: #61dafb;
 }
